@@ -12,3 +12,4 @@
 
 1 x 480
 
+![Frame specs](https://github.com/railcube/frame/blob/master/resources/profile.jpg?raw=true)
